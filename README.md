@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sandil Jayasinghe<br>👀 Coding is my getaway from reality<br>🌱 Currently a student at Informatics Institute of Technology<br>📫 Contact me via Email (svjayasinghe@gmail.com)
+👋 Hi, I’m Sandil Jayasinghe<br>👀 Coding is my getaway from reality<br>🌱 Currently a student at Informatics Institute of Technology<br>📫 Contact me via Email (sandiljayasinghe@gmail.com)
 
 
 ## 🌐 Socials:
